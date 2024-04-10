@@ -1,0 +1,9 @@
+html{background-color:black;}
+.text{color:white;}
+img{border:5px solid goldenrod;}
+div{text-align:center;}
+.text{
+    font-family: "Libre Baskerville", serif;
+    font-weight: 700;
+    font-style: bold;}
+h1{text-transform:uppercase;}
